@@ -25,7 +25,7 @@ Many clinics rely on manual appointment booking processes, which can lead to dou
 
 ## Live Demo
 
-🔗 [View Live Demo]([PASTE_YOUR_LIVE_DEMO_LINK_HERE](https://allcareclinic.netlify.app/))
+🔗 [View Live Demo]([https://allcareclinic.netlify.app/])
 
 ## System Design
 
